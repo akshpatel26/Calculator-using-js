@@ -7,6 +7,8 @@ Perform quick calculations with the user-friendly Calculator. Whether it's addit
 Basic Operations: Add, subtract, multiply, and divide numbers effortlessly. 🔢 Numeric Input: Input numbers using the on-screen buttons or your keyboard. 🔄 Clear Function: Easily reset the calculator with the clear button. 
 
 
+#
+
 #  Technologies Used 💻
 
 • Front-End: HTML, CSS, JavaScript
